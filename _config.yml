@@ -6,9 +6,6 @@ port:        4000
 highligher:  true
 
 # Build settings
-markdown:    rdiscount
-rdiscount:
-  extensions: [smart]
 
 # This is the default base url path.
 BASE_PATH : https://jupitercrabtree.github.io/
